@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-arisera-primary: #6D4AFF;
+  --color-arisera-accent: #9B7BFF;
+  --color-arisera-dark: #11111B;
+  --color-arisera-light: #F8F8FC;
+  --color-arisera-muted: #85859A;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+:root {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+

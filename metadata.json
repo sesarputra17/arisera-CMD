@@ -1,0 +1,6 @@
+{
+  "name": "ARISERA - CMS Universal & Pembuat Website Visual",
+  "description": "Platform CMS universal dan pembuat website visual modern untuk bisnis. Bangun, ciptakan, dan kembangkan website bisnis dengan antarmuka visual tanpa pemrograman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
